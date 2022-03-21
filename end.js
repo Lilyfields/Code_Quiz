@@ -5,15 +5,15 @@ const mostRecentScore = localStorage.getItem('mostRecentScore');
 
 const highScores= JSON.parse(localStorage.getItem('highScores')) || []
 
-const MAX_HIGH_SCORES = 11
+const MAX_HIGH_SCORES = 1000
 
-finalScore.inerText =mostRecentScore
+finalScore.innerText =mostRecentScore
 
 username.addEventListener('keyup', ()=>{
     saveScoreBtn.disabled = !username.value
 })
 
-saveHighScore = e => {
+let saveHighScore = e => {
     e.preventDefault()
 
     const score= {
@@ -24,10 +24,10 @@ saveHighScore = e => {
     highScores.push(score)
 
     highScores.sort((a,b) => {
-        return b.score-a.score
+        return b.score - a.score
     })
 
-    highScores.splice(11)
+    highScores.splice(1000)
 
     localStorage.setItem('highScores', JSON.stringify(highScores))
     window.location.assign('/')
