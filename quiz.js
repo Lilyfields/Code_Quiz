@@ -135,10 +135,10 @@ function getNewQuestion() {
 
   availableQuestions.splice(questionsIndex, 1);
   acceptingAnswers = true;
-};
+}
 
 choices.forEach((choice) => {
-  choice.addEventListener("click", (e) => {
+  choice.addEventListener("click", e => {
     if (!acceptingAnswers) return;
 
     acceptingAnswers = false;
@@ -163,7 +163,7 @@ choices.forEach((choice) => {
   });
 });
 
-incrementScore = (num) => {
+let incrementScore = (num) => {
   score += num;
   scoreText.innerText = score;
 };
