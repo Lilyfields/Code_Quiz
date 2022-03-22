@@ -32,7 +32,11 @@ THEN I can save my initials and my score
 
 The following animation demonstrates the application functionality:
 
-![demo](https://watch.screencastify.com/v/M0CaaIUBboayTPcRfVnI)
+https://watch.screencastify.com/v/M0CaaIUBboayTPcRfVnI
+
+
+## Images for Code_Quiz
+
 
 
 
