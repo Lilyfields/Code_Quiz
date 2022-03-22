@@ -37,7 +37,9 @@ https://watch.screencastify.com/v/M0CaaIUBboayTPcRfVnI
 
 ## Images for Code_Quiz
 
-<image src="https://user-images.githubusercontent.com/94832331/159478556-7f87b0d3-ece1-41a6-9f28-beefda390b78.png" width=400 height=200>
+<image src="https://user-images.githubusercontent.com/94832331/159478556-7f87b0d3-ece1-41a6-9f28-beefda390b78.png" width=400 height=200> <image src="https://user-images.githubusercontent.com/94832331/159479478-a3637ec2-d2c4-4ffb-b0cd-fb7f1db4c78d.png" width=400 height=200> 
+
+
 
 
 ## Grading Requirements
