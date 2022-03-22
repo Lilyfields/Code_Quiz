@@ -41,11 +41,14 @@ https://watch.screencastify.com/v/M0CaaIUBboayTPcRfVnI
 
 
 
-## Features
+## Key Features
 
 * HTML
 * CSS
 * JS
+  
+* Responsive.
+* Interactive (i.e., accept and respond to user input).
 
 
 ### Application Quality
@@ -57,6 +60,11 @@ https://watch.screencastify.com/v/M0CaaIUBboayTPcRfVnI
 * Application resembles the mock-up functionality provided in the homework instructions.
 
 
+## Future Development
+
+- Upcoming project: Workday_Schedular
+
+- Using jQuery libary and third party API
 ---
 
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
