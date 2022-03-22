@@ -46,11 +46,11 @@ https://watch.screencastify.com/v/M0CaaIUBboayTPcRfVnI
 * HTML
 * CSS
 * JS
+* Local Storage
   
 * Responsive.
 * Interactive (i.e., accept and respond to user input).
   
-
 
 ## Application Quality
 
