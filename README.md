@@ -30,7 +30,7 @@ THEN I can save my initials and my score
 
 ## My Final Outcome
 
-The following animation demonstrates the application functionality:
+The following link demonstrates the application functionality:
 
 https://watch.screencastify.com/v/M0CaaIUBboayTPcRfVnI
 
