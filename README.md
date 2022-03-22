@@ -1,14 +1,14 @@
 # 04 Web APIs: Code Quiz
 
-## My Journry and development
+## My Journey and development
 
-Building a timed coding quiz with multiple-choice question; which is a app that runs in the browser and will feature dynamically updated HTML and CSS powered by JavaScript code.
+Building the Code_Quiz with multiple-choice question; which is a app that runs in the browser and will feature dynamically updated HTML and CSS powered by JavaScript code.
 
 ## User Story
 
 ```
 AS A coding boot camp student
-I WANT to take a timed quiz on JavaScript fundamentals that stores high scores
+I WANT to take a quiz on JavaScript fundamentals that stores high scores
 SO THAT I can gauge my progress compared to my peers
 ```
 
@@ -32,11 +32,17 @@ THEN I can save my initials and my score
 
 The following animation demonstrates the application functionality:
 
-![A user clicks through an interactive coding quiz, then enters initials to save the high score before resetting and starting over.](./Assets/04-web-apis-homework-demo.gif)
+https://watch.screencastify.com/v/M0CaaIUBboayTPcRfVnI
+
+
+
+## Images of Code_Quiz
+
+
 
 ## Grading Requirements
 
-This homework is graded based on the following criteria: 
+This project was graded based on the following criteria: 
 
 ### Technical Acceptance Criteria: 40%
 
