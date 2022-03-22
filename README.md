@@ -49,15 +49,17 @@ https://watch.screencastify.com/v/M0CaaIUBboayTPcRfVnI
   
 * Responsive.
 * Interactive (i.e., accept and respond to user input).
+  ```
 
 
-### Application Quality
+## Application Quality
 
 * Application experience is intuitive and easy to navigate.
 
 * Application user interface style is clean and polished.
 
 * Application resembles the mock-up functionality provided in the homework instructions.
+  ```
 
 
 ## Future Development
@@ -65,6 +67,7 @@ https://watch.screencastify.com/v/M0CaaIUBboayTPcRfVnI
 - Upcoming project: Workday_Schedular
 
 - Using jQuery libary and third party API
+  ```
 ---
 
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
