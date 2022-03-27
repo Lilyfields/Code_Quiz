@@ -17,15 +17,16 @@ SO THAT I can gauge my progress compared to my peers
 ```
 GIVEN I am taking a code quiz
 WHEN I click the start button
-THEN a timer starts and I am presented with a question
+THEN I am presented with a question
 WHEN I answer a question
 THEN I am presented with another question
 WHEN I answer a question incorrectly
-THEN time is subtracted from the clock
-WHEN all questions are answered or the timer reaches 0
-THEN the game is over
-WHEN the game is over
-THEN I can save my initials and my score
+THEN the button turns red and the word incorrect flashes up in the left hand corner. No points are gain with incorrect answers.
+WHEN I answer a question correctly
+THEN the button turns green.The word correct flashes up in the left hand corner. Points are gained with correct answers.
+WHEN all questions are completed
+THEN Game is over.
+THEN I can save my scores and play again
 ```
 
 ## My Final Outcome
